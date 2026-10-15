@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="application-de-gestion-commande-tp2-c++.vcxproj" Id="5a966033-2bf9-4204-a903-51ac00da7b83" />
+</Solution>
